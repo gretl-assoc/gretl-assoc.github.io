@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://gretl-assoc.github.io/en/about/</loc>
+    <lastmod>2021-01-18T17:48:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://gretl-assoc.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://gretl-assoc.github.io/en/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://gretl-assoc.github.io/en/dates/</loc>
+    <lastmod>2021-01-18T17:48:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://gretl-assoc.github.io/dates/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://gretl-assoc.github.io/en/dates/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://gretl-assoc.github.io/en/gretl/</loc>
+    <lastmod>2021-01-18T17:48:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://gretl-assoc.github.io/gretl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://gretl-assoc.github.io/en/gretl/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://gretl-assoc.github.io/en/member/</loc>
+    <lastmod>2021-01-18T17:48:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://gretl-assoc.github.io/member/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://gretl-assoc.github.io/en/member/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://gretl-assoc.github.io/en/</loc>
+    <lastmod>2021-01-17T09:58:44+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://gretl-assoc.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://gretl-assoc.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://gretl-assoc.github.io/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://gretl-assoc.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://gretl-assoc.github.io/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://gretl-assoc.github.io/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://gretl-assoc.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://gretl-assoc.github.io/en/tags/"
+                />
+  </url>
+  
+</urlset>
