@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gretl Association</title>
+    <link>http://gretl-assoc.github.io/</link>
+    <description>Recent content on Gretl Association</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Jan 2021 16:29:53 +0100</lastBuildDate><atom:link href="http://gretl-assoc.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testpost</title>
+      <link>http://gretl-assoc.github.io/post/testpost/</link>
+      <pubDate>Mon, 18 Jan 2021 16:29:53 +0100</pubDate>
+      
+      <guid>http://gretl-assoc.github.io/post/testpost/</guid>
+      <description>some content here&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
