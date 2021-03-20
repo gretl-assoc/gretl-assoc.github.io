@@ -3,17 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://gretl-assoc.github.io/about/</loc>
-    <lastmod>2021-01-18T17:48:54+01:00</lastmod>
+    <loc>http://gretl-assoc.github.io/docs/</loc>
+    <lastmod>2021-03-19T17:48:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://gretl-assoc.github.io/en/about/"
+                href="http://gretl-assoc.github.io/en/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://gretl-assoc.github.io/about/"
+                href="http://gretl-assoc.github.io/docs/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://gretl-assoc.github.io/dates/</loc>
+    <lastmod>2021-03-19T17:48:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://gretl-assoc.github.io/en/dates/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://gretl-assoc.github.io/dates/"
                 />
   </url>
   
@@ -48,17 +63,32 @@
   </url>
   
   <url>
-    <loc>http://gretl-assoc.github.io/dates/</loc>
+    <loc>http://gretl-assoc.github.io/donation/</loc>
     <lastmod>2021-01-18T17:48:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://gretl-assoc.github.io/en/dates/"
+                href="http://gretl-assoc.github.io/en/donation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://gretl-assoc.github.io/dates/"
+                href="http://gretl-assoc.github.io/donation/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://gretl-assoc.github.io/about/</loc>
+    <lastmod>2021-01-18T17:48:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://gretl-assoc.github.io/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://gretl-assoc.github.io/about/"
                 />
   </url>
   
