@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Membership on Association</title>
+    <title>Membership on gretl Association</title>
     <link>http://gretl-assoc.github.io/en/member/</link>
-    <description>Recent content in Membership on Association</description>
+    <description>Recent content in Membership on gretl Association</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <lastBuildDate>Mon, 18 Jan 2021 17:48:54 +0100</lastBuildDate><atom:link href="http://gretl-assoc.github.io/en/member/index.xml" rel="self" type="application/rss+xml" />

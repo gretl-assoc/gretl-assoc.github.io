@@ -5,18 +5,18 @@ theme = "ananke"
 
 DefaultContentLanguage = "de"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 4 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
 [languages]
   [languages.de]
-    title = "Willkommen bei der Gretl Association"
+    title = "Willkommen bei der gretl Association e.V."
     weight = 1
     contentDir = "content/de"
     languageName = "Deutsch"
   [languages.en]
-    title = "Welcome to the Gretl Association"
+    title = "Welcome to the gretl Association e.V."
     weight = 2
     contentDir = "content/en"
     languageName = "English"
@@ -58,6 +58,16 @@ enableRobotsTXT = true
     name = "Termine"
     url = "/dates"
     weight = 3
+  [[menu.main]]
+    identifier = "docs"
+    name = "Dokumente"
+    url = "/docs"
+    weight = 4
+  [[menu.main]]
+    identifier = "donation"
+    name = "Spenden"
+    url = "/donation"
+    weight = 5
 
 [[languages.en.menu.main]]
   [[menu.main]]
@@ -75,3 +85,13 @@ enableRobotsTXT = true
     name = "Dates"
     url = "/dates"
     weight = 3
+  [[menu.main]]
+    identifier = "docs"
+    name = "Documents"
+    url = "/docs"
+    weight = 4
+  [[menu.main]]
+    identifier = "donation"
+    name = "Donation"
+    url = "/donation"
+    weight = 5
