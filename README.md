@@ -3,4 +3,4 @@ From this repo the deployment of the [website](https://github.com/gretl-assoc/gr
 Also see: https://youtu.be/LIFvgrRxdt4
 
 # How-to work with Hugo
-For a how-to see [here](https://github.com/atecon/blog).
+For a how-to see [here](https://github.com/atecon/atecon_blog).
