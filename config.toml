@@ -17,7 +17,7 @@ enableRobotsTXT = true
     languageName = "Deutsch"
   [languages.en]
     title = "Welcome to the gretl Association e.V."
-    weight = 2
+    weight = 1
     contentDir = "content/en"
     languageName = "English"
 
@@ -68,6 +68,11 @@ enableRobotsTXT = true
     name = "Spenden"
     url = "/donation"
     weight = 5
+  [[menu.main]]
+    identifier = "grant"
+    name = "Stipendium"
+    url = "/grant"
+    weight = 1
 
 [[languages.en.menu.main]]
   [[menu.main]]
@@ -95,3 +100,8 @@ enableRobotsTXT = true
     name = "Donation"
     url = "/donation"
     weight = 5
+  [[menu.main]]
+    identifier = "grant"
+    name = "Grant"
+    url = "/grant"
+    weight = 1
