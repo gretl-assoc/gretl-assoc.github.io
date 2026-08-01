@@ -2,132 +2,158 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://gretl-assoc.github.io/grant/</loc>
-    <lastmod>2023-04-03T17:48:54+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://gretl-assoc.github.io/en/grant/"
-                />
+    <loc>/de/get-involved/</loc>
+    <lastmod>2026-08-01T12:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://gretl-assoc.github.io/grant/"
+                href="/de/get-involved/"
                 />
-  </url><url>
-    <loc>http://gretl-assoc.github.io/dates/</loc>
-    <lastmod>2023-04-03T17:48:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://gretl-assoc.github.io/en/dates/"
+                href="/en/get-involved/"
                 />
+  </url><url>
+    <loc>/de/events/</loc>
+    <lastmod>2026-08-01T12:00:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://gretl-assoc.github.io/dates/"
+                href="/de/events/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/events/"
                 />
   </url><url>
-    <loc>http://gretl-assoc.github.io/docs/</loc>
+    <loc>/de/get-involved/legacy/</loc>
+    <lastmod>2026-08-01T12:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/get-involved/legacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/get-involved/legacy/"
+                />
+  </url><url>
+    <loc>/de/resources/</loc>
     <lastmod>2021-03-19T17:48:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://gretl-assoc.github.io/en/docs/"
+                hreflang="de"
+                href="/de/resources/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://gretl-assoc.github.io/docs/"
+                hreflang="en"
+                href="/en/resources/"
                 />
   </url><url>
-    <loc>http://gretl-assoc.github.io/gretl/</loc>
+    <loc>/de/resources/documents/</loc>
+    <lastmod>2021-03-19T17:48:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/resources/documents/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/resources/documents/"
+                />
+  </url><url>
+    <loc>/de/about-gretl/</loc>
     <lastmod>2021-01-18T17:48:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://gretl-assoc.github.io/en/gretl/"
+                hreflang="de"
+                href="/de/about-gretl/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://gretl-assoc.github.io/gretl/"
+                hreflang="en"
+                href="/en/about-gretl/"
                 />
   </url><url>
-    <loc>http://gretl-assoc.github.io/member/</loc>
+    <loc>/de/get-involved/members/</loc>
     <lastmod>2021-01-18T17:48:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://gretl-assoc.github.io/en/member/"
+                hreflang="de"
+                href="/de/get-involved/members/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://gretl-assoc.github.io/member/"
+                hreflang="en"
+                href="/en/get-involved/members/"
                 />
   </url><url>
-    <loc>http://gretl-assoc.github.io/donation/</loc>
+    <loc>/de/get-involved/donate/</loc>
     <lastmod>2021-01-18T17:48:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://gretl-assoc.github.io/en/donation/"
+                hreflang="de"
+                href="/de/get-involved/donate/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://gretl-assoc.github.io/donation/"
+                hreflang="en"
+                href="/en/get-involved/donate/"
                 />
   </url><url>
-    <loc>http://gretl-assoc.github.io/about/</loc>
+    <loc>/de/about/</loc>
     <lastmod>2021-01-18T17:48:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://gretl-assoc.github.io/en/about/"
+                hreflang="de"
+                href="/de/about/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://gretl-assoc.github.io/about/"
+                hreflang="en"
+                href="/en/about/"
                 />
   </url><url>
-    <loc>http://gretl-assoc.github.io/</loc>
+    <loc>/de/</loc>
     <lastmod>2021-01-17T09:58:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://gretl-assoc.github.io/en/"
+                hreflang="de"
+                href="/de/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://gretl-assoc.github.io/"
+                hreflang="en"
+                href="/en/"
                 />
   </url><url>
-    <loc>http://gretl-assoc.github.io/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://gretl-assoc.github.io/en/categories/"
-                />
+    <loc>/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://gretl-assoc.github.io/categories/"
+                href="/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
                 />
   </url><url>
-    <loc>http://gretl-assoc.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://gretl-assoc.github.io/en/tags/"
-                />
+    <loc>/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://gretl-assoc.github.io/tags/"
+                href="/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
                 />
   </url>
 </urlset>

@@ -1,0 +1,44 @@
+/* Custom CSS for gretl Association - Color Scheme */
+
+/* Override primary colors with gretl-specific palette */
+:root {
+  /* Keep the existing green palette from Dot-Org theme - works well for gretl */
+  /* If you want to change these colors, modify the values below */
+  
+  /* Optional: Add custom variables for gretl */
+  --gretl-primary: #4d8307;      /* Dark green */
+  --gretl-accent: #5aa100;       /* Light green */
+  --gretl-dark: #003c32;         /* Very dark */
+  --gretl-light: #eaecf0;        /* Light gray */
+}
+
+/* Optional: Custom gretl branding adjustments */
+.site-header {
+  /* Header styling can be customized here */
+}
+
+.logo {
+  /* Logo styling can be customized here */
+  max-width: 200px;
+}
+
+/* Ensure footer links are readable */
+.footer a {
+  color: var(--footer-link-color, #ffffff);
+  text-decoration: underline;
+}
+
+.footer a:hover {
+  color: var(--footer-link-color-hover, #5aa100);
+}
+
+/* Custom styling for gretl sections */
+.site-main article {
+  margin-bottom: 2rem;
+}
+
+/* Ensure proper spacing for nested navigation */
+.menu-item-has-children > a::after {
+  content: " ▼";
+  font-size: 0.75em;
+}
