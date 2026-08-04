@@ -202,7 +202,7 @@ gretl-assoc.github.io/
 **Source Repository**: https://github.com/gretl-assoc/gretl_assoc_website
 
 **README with full instructions**: 
-https://github.com/gretl-assoc/gretl_assoc_website/blob/master/README.md
+https://github.com/gretl-assoc/gretl_assoc_website/blob/main/README.md
 
 ### Common Tasks
 
@@ -238,8 +238,8 @@ Follow Step-by-Step Update Process above (Steps 1-5)
 Feature development happens exclusively in the **source repository**:
 - **Source Repo**: https://github.com/gretl-assoc/gretl_assoc_website
 - Feature branches created and tested there
-- Pull requests reviewed before merge to `master`
-- Only final, tested content from `master` is deployed here
+- Pull requests reviewed before merge to `main`
+- Only final, tested content from `main` is deployed here
 - Deployment repo receives built files via manual copy process
 
 **Benefit**: Separation of concerns keeps source code changes separate from deployment artifacts.
