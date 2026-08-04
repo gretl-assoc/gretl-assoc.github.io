@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/en/about/</loc>
+    <lastmod>2021-01-18T17:48:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/about/"
+                />
+  </url><url>
     <loc>/en/events/</loc>
     <lastmod>2026-08-01T12:00:00+01:00</lastmod>
     <xhtml:link
@@ -78,19 +91,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/about-gretl/"
-                />
-  </url><url>
-    <loc>/en/about/</loc>
-    <lastmod>2021-01-18T17:48:54+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="/de/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/about/"
                 />
   </url><url>
     <loc>/en/get-involved/donate/</loc>
