@@ -231,6 +231,19 @@ npm run start
 **Deploy updates**: 
 Follow Step-by-Step Update Process above (Steps 1-5)
 
+### Development Workflow Note
+
+⚠️ **Important**: The deployment repository uses `main` branch only.
+
+Feature development happens exclusively in the **source repository**:
+- **Source Repo**: https://github.com/gretl-assoc/gretl_assoc_website
+- Feature branches created and tested there
+- Pull requests reviewed before merge to `master`
+- Only final, tested content from `master` is deployed here
+- Deployment repo receives built files via manual copy process
+
+**Benefit**: Separation of concerns keeps source code changes separate from deployment artifacts.
+
 ---
 
 ## Repository Information
